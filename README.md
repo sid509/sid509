@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sudip Dahal 
 - 👀 I’m interested in web and mobile app development
-- 🌱 I’m currently learning laravel and flutter side by side
+- 🌱 I’m currently working and learning laravel and flutter side by side
 - 💞️ I’m looking to collaborate on flutter automation...
 - 📫 You can reach me via sudipdahal509@gmail.com
 
